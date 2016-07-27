@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\Palyosemre\Desktop\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csprojResolveAssemblyReference.cache
